@@ -1,0 +1,14 @@
+{
+    "name": "wcs/quete-4-poo-odyssey",
+    "description": "Quete 4 POO odyssey",
+    "authors": [
+        {
+            "name": "Bruno",
+            "email": "brlagasse@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
